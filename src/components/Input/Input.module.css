@@ -1,0 +1,11 @@
+.inputbox{
+    border: 2px blue solid;
+    width: 60%;
+    height: 5%;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    word-spacing: 0.1rem;
+    letter-spacing: 0.1rem;
+}
